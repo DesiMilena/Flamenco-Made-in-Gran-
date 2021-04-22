@@ -16,7 +16,9 @@ Univesidad de Granada
 **Resumen** : Proyecto educativo transmedial que muestra las particularidades del flamenco que nace en Granada, y que lo diferencian del que surge en otras partes de España. Nos adentraremos en el flamenco granadino a través de la historia de lugares emblemáticos como el Albaicín, el Sacromonte o la plaza de los Aljibes de la Alhambra, así como los artistas y eventos más destacados del flamenco en esta ciudad y los palos típicos que nacieron en Granada.
 
 
-**logotipo** :  ![Flamenco made in Graná](https://user-images.githubusercontent.com/82603093/115636903-3f7e2280-a30f-11eb-88f1-25bce579e67d.png)
+**logotipo** : 
+
+![Flamenco made in Graná](https://user-images.githubusercontent.com/82603093/115636903-3f7e2280-a30f-11eb-88f1-25bce579e67d.png)
 
 **Slogan**: Granada cuna del flamenco
 
