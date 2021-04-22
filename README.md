@@ -53,7 +53,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+Actividades realizadas mediante Trello https://trello.com/c/OwRccwpa/36-flamenco-made-in-gran%C3%A1
 
 **Investigación de campo**   Desk research (propuestas inspiradoras para el proyecto) 
 
